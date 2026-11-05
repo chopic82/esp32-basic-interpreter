@@ -34,3 +34,5 @@
 Веб-интерфейс: откройте браузер и введите IP-адрес ESP32 (показан на экране дисплея после загрузки).
 
 Telnet: подключитесь через PuTTY (Telnet, порт 23).
+
+The Roboto font used in this project is licensed under the Apache License 2.0.
